@@ -1,0 +1,39 @@
+/* Styling for a warm and cozy letter feel with pastel hues */
+body {
+    background-color: #FFF8E8;
+    color: #3A3A3A;
+    font-family: 'Merriweather', serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+}
+header, main {
+    max-width: 700px;
+    margin: auto;
+    padding: 2rem;
+}
+h1 {
+    color: #D57A66;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+.intro {
+    font-size: 1.2rem;
+    text-align: center;
+    color: #A3705B;
+    margin-bottom: 2rem;
+}
+.letter {
+    font-size: 1.1rem;
+    background: #FFE9D6;
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    line-height: 1.6;
+    color: #3A3A3A;
+}
+.letter p {
+    text-indent: 2em;
+    margin: 1.5rem 0;
+}
